@@ -1,0 +1,19 @@
+{
+  "name": "Libreta de Cooperaciones",
+  "short_name": "Cooperaciones",
+  "description": "Registro de grupos, alumnos y cooperaciones escolares. Funciona sin internet.",
+  "lang": "es-MX",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f3f6f5",
+  "theme_color": "#0f6b58",
+  "categories": ["education", "finance", "productivity"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
